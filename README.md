@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="[YOUR_IMAGE_URL_HERE](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)" alt="Developer Image" width="600"/>
+</p>
 
 # Hey there 👋, I'm [MahmoudFaresr]
 
