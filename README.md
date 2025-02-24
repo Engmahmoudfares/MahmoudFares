@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Image" width="600"/>
 </p>
- <center><h1>Hey There👋</h1> 
-</center>   
+ <center> <h1>Hey There👋</h1></center>   
+
 ## 🚀 About Me:
 - 🔥 A passionate Mobile Application Developer specializing in **Flutter**.
 - 🎯 Focused on building efficient and high-performance applications.
