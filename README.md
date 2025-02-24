@@ -1,11 +1,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Image" width="600"/>
 </p>
-<h1>Hey There👋</h1> 
+<h1>Hey There👋</h1>  
 
 ## 🚀 About Me:
-👋 Hi, I'm Mahmoud, a passionate Mobile Application Developer specializing in Flutter. 📱
-- 🔥 A passionate Mobile Application Developer specializing in **Flutter**.
+👋 Hi, I'm Mahmoud Fares  
+- 🔥A passionate Mobile Application Developer specializing in Flutter. 📱
 - 🎯 Focused on building efficient and high-performance applications.
 - 🚀 I'm always eager to learn new technologies and best practices to enhance my development workflow.
 - 💡 I'm always eager to learn new technologies and best practices to enhance my development workflow.
